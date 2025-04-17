@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff6e25&height=300&section=header&text=melloCoding&fontSize=90&fontColor=ffc070&desc=Learning%20full%20full-stack%20dev%20and%20learning%20Game-dev)
 
-<h2 style="text-align:center;>About Me</h2>
+## About Me
+I am a learning full stack dev. I am also learning game development with Godot.
 
 <!--
 **melloCoding/melloCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
