@@ -4,7 +4,7 @@
 I am a learning full stack dev. I am also learning game development with Godot.
 
 # Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote="Microsoft%20isn't%20evil,%20they%20just%20make%20really%20crappy%20operating%20systems.")](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote="Microsoft%20isn't%20evil,%20they%20just%20make%20really%20crappy%20operating%20systems."?author="Linus%20Torvalds)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **melloCoding/melloCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
