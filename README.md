@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff6e25&height=300&section=header&text=melloCoding&fontSize=90&fontColor=ffc070&desc=Learning%20full%20full-stack%20dev%20and%20learning%20Game-dev)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melloCoding)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melloCoding&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nuxt)](https://skillicons.dev)
 # About Me
 I am a learning full stack dev. I am also learning game development with Godot.
 
-# Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=Microsoft%20isn't%20evil,%20they%20just%20make%20really%20crappy%20operating%20systems.&author=Linus%20Torvalds)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **melloCoding/melloCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
