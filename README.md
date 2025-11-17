@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melloCoding&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melloCoding&hide_progress=true&theme=dark&type=donut)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nuxt,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,nuxt,godot)](https://skillicons.dev)
 # About Me
 I am a learning full stack dev. I am also learning game development with Godot.
 
